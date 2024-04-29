@@ -1,0 +1,15 @@
+{
+  "name": "basic-html-css",
+  "version": "1.0.0",
+  "description": "## Remote 이름 변경하기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "htmlhint": "^1.1.4"
+  }
+}

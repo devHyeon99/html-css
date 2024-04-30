@@ -1,1 +1,25 @@
 /* CSS 선택자(Selector) */
+
+body {
+  background-color: black;
+}
+
+* {
+  color: lightskyblue;
+}
+
+p {
+  color: red;
+}
+
+.note {
+  color: green;
+}
+
+#euid {
+  color: purple;
+}
+
+a[href] {
+  color: orange;
+}
